@@ -1,2 +1,2 @@
 # Documentation
-[Project Documentation](/wiki)
+[Project Documentation](../../wiki)
